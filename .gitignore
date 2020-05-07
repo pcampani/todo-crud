@@ -4,4 +4,4 @@ dist
 .DS_Store
 .eslintrc.js
 favicon.png
-config.js
+**/firebase
